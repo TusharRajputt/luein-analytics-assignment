@@ -101,7 +101,7 @@ function App() {
     // Add recipient name
     doc.setFontSize(28);
     doc.setTextColor(31, 41, 55);
-    doc.text("Tushar Dev Singh", 148.5, 110, { align: "center" });
+    doc.text("Aditya Pratap Biloria", 148.5, 110, { align: "center" });
 
     // Add completion text
     doc.setFontSize(16);
